@@ -38,7 +38,8 @@ public class PiTri {
 
     private static boolean checkTriple(int a, int b, int c) {
         return a * a + b * b == c * c;
-        /// lzk rjvvbnf
+        ///Переделал на английский комментарий\
+
     }
 
 }
